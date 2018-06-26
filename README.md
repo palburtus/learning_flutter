@@ -1,8 +1,13 @@
-# fltr_poc
+# Flutter Learning
 
-A new Flutter project.
+A simple flutter project based on Google's tutorials
 
-## Getting Started
+## Progress
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+**Completed**
+Steps 1 - 5 from:
+https://flutter.io/get-started/codelab/
+
+**Up next**
+Step 6: Navigate to a new screen
+
